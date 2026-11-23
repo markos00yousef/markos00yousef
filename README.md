@@ -79,7 +79,7 @@ I'm passionate about software quality and continuously improving my testing skil
 
 - **LinkedIn:** [Markos Youssef](https://www.linkedin.com/in/markos-youssef)
 - **GitHub:** [markos00yousef](https://github.com/markos00yousef)
-- **CV** [CV](https://drive.google.com/file/d/1_FtpN1drfwQeY6QrelRUfn77uDoGrtCu/view?usp=sharing)
+- **CV** [CV](https://drive.google.com/file/d/1w0i-0Kc7tbNwziXWpWaky5Pwtdr06NZR/view?usp=sharing)
 
 ---
 
