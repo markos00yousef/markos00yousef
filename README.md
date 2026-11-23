@@ -2,10 +2,6 @@
 
 ### Software Tester | QA Engineer | ISTQB® Certified Tester (CTFL v4.0)
 
-# Hi, I'm Markos Youssef 👋
-
-### Software Tester | QA Engineer | ISTQB® Certified Tester (CTFL v4.0)
-
 I'm a Computer Science graduate and an ISTQB-certified Software Tester with hands-on experience in Manual Testing of Android applications, mobile devices, and Web apps, Test Automation, and API Testing.
 
 I have practical experience using Selenium WebDriver with Java for web automation, and Postman for REST API testing. I've developed and completed hands-on testing projects covering web application automation, API validation, test case design, bug reporting, and test execution.
